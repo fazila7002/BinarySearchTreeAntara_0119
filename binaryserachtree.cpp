@@ -13,6 +13,8 @@ class Node {
         rightChild = r;
     }
 
+};
 
+class BinaryTree {
 
 };
