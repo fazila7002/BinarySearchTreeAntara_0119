@@ -120,4 +120,10 @@ int main()
         cout << "5. Exit" << endl;
         cout << "\nEnter your choice (1-5) : ";
 
+        char ch;
+        cin >> ch;
+        cout << endl;
+        
+    }
+
 }
